@@ -3,3 +3,6 @@ apellido = "Dalto"
 
 saludo = "Hola "+ nombre + " " + apellido + " ¿Como estas?"
 print(saludo)
+
+
+#mensaje de prueba noma
